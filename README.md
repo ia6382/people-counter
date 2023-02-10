@@ -7,4 +7,4 @@ Using OpenCV the app scans the video frames for humans using a HOG (Histogram of
 
 Repository includes the source code and 2 testing videos.
 
-Made with C++ and OpeCV v3.1 in 2017.
+Made with C++ and OpenCV v3.1 in 2017.
